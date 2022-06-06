@@ -1,0 +1,15 @@
+.container-fluid{
+    /* background-color: aqua; */
+}
+.outer{
+    background-color:rgb(23, 29, 29);
+    width: 1fr;
+    height: 120vh;
+    padding: 2rem 2rem 2rem 2rem;
+}
+
+/* .pg-class{
+    gap: 2rem;
+    margin-bottom: 1rem;
+    
+} */
